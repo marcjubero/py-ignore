@@ -1,0 +1,3 @@
+[submodule "pyignore/ignore_samples"]
+	path = pyignore/ignore_samples
+	url = https://github.com/github/gitignore.git
